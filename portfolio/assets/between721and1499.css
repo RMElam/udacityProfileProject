@@ -1,0 +1,32 @@
+.mainNavigation {
+	width: 100%;
+}
+.logo {
+	padding: 15px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+#pageTitle {
+	margin-right: 15px;
+}
+.pageTitle {
+	font-size: 35px;
+}
+
+.description {
+	font-size: 25px;
+}
+img {
+	width: 70%;
+	margin: 10px auto;
+}
+
+.img {
+	width: 	33.33333%;
+}
+.photosTitle {
+	justify-content: center;
+}
+p {
+	font-size: 30px;
+}

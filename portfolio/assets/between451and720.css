@@ -1,0 +1,33 @@
+.mainNavigation {
+	width: 100%;
+}
+.logo {
+	padding: 15px;
+	margin-left: 25px;
+	margin-top: 15px;
+}
+#pageTitle {
+	margin-right: 15px;
+}
+.pageTitle {
+	font-size: 35px;
+	margin-top: 20px;
+}
+
+.description {
+	display: none;
+}
+.gen_img {
+	width: 100%;
+	margin: 10px 0 0 0;
+}
+img {
+	width: 100%;
+	padding: 0;
+}
+.photosTitle {
+	justify-content: center;
+}
+p {
+	font-size: 25px;
+}
